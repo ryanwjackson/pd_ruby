@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pd_ruby (0.1.0)
+    pd_ruby (0.2.0)
       colorize
 
 GEM
