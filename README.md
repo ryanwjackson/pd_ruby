@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+pd "asdf"
+pd obj
+```
 
 ## Development
 
