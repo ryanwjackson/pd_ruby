@@ -18,5 +18,5 @@ end
 
 def pd(thing = nil, options = {})
   options[:backtrace_offset] ||= 1
-  print_debug(thing, options)
+  print_debug(thing, **options)
 end
